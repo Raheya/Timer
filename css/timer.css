@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+
+.container{
+  position: absolute;
+  z-index: 15;
+  top: 50%;
+  left: 36%;
+  margin: -100px 0 0 -150px;
+}
+
+div.inline{
+  display: inline-block;
+  min-width: 100px;
+  padding: 35px;
+  border: 1px solid #d9d9d9;
+  border-radius: 6px;
+}
+
+h1{
+
+  font-family: 'Source Sans Pro', sans-serif;
+}
+span{
+  font-family: 'Ubuntu', sans-serif;
+  color: #cccccc;
+  font-weight: bold;
+}
